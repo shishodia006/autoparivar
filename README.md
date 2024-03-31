@@ -1,2 +1,2 @@
 # autoparivar
-my web fo r ngo
+my web for ngo
